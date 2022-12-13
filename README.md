@@ -8,9 +8,9 @@ The following code notebook is ran on Google Colab.
 
 The following steps will be performed:
 
-1. [Running base model inference with TensorFlow Hub](#scrollTo=6g0tuFvf71S9&line=8&uniqifier=1)
-2. [Running streaming model inference with TensorFlow Hub and plotting predictions](#scrollTo=ADrHPmwGcBZ5&line=4&uniqifier=1)
-3. [Running a streaming TensorFlow Lite model for mobile](#scrollTo=W3CLHvubvdSI&line=3&uniqifier=1)
+1. Running base model inference with TensorFlow Hub
+2. Running streaming model inference with TensorFlow Hub and plotting predictions
+3. Running a streaming TensorFlow Lite model for mobile
 
 ![jumping jacks plot](https://storage.googleapis.com/tf_model_garden/vision/movinet/artifacts/jumpingjacks_plot.gif)
 
